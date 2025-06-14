@@ -1,2 +1,3 @@
 # chatbot-for-vietnamese-real-estate-searching
-![Project Screenshot](data/Picture1.png)
+
+![Alt text](https://github.com/meiskiet/chatbot-for-vietnamese-real-estate-searching/blob/main/src/data/Picture1.png)
